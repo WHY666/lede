@@ -1126,8 +1126,7 @@ jobs:
           CONFIG_PACKAGE_shellsync=y
           CONFIG_STRACE_NONE=y
           CONFIG_PACKAGE_usbids=y
-          CONFIG_PACKAGE_usbutils=y
-					
+          CONFIG_PACKAGE_usbutils=y				
           EOF
 
           #
